@@ -14,5 +14,4 @@ This project involves cleaning and analyzing Walmart sales data using Python (pa
 
 ---
 
-## 📁 Project Structure
 
